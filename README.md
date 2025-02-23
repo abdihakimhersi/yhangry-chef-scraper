@@ -1,5 +1,4 @@
 # yhangry-chef-scraper
-Assessment
 import requests
 from bs4 import BeautifulSoup
 
